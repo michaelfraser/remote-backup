@@ -3,6 +3,8 @@
 
 A script for backing up remote databases using curl and phpMyAdmin.  This is useful when you don't have shell access to your web server.
 
+This has been tested on phpMyAdmin - 2.9.2.
+
 Simply set the following variables at the top of the script and you are away.
 
 USERNAME
