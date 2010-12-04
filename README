@@ -1,0 +1,15 @@
+
+= Michael Fraser
+
+A script for backing up remote databases using curl and phpMyAdmin.  This is useful when you don't have shell access to your web server.
+
+Simply set the following variables at the top of the script and you are away.
+
+USERNAME
+PASSWORD
+PROTOCOL
+DOMAIN
+DATABASE
+OUPUT_DIR
+COMPRESSION
+METHOD
